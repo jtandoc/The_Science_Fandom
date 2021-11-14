@@ -78,7 +78,7 @@ a.select1:hover {
 	color: white;
 	border-radius: 10px;
 }
-a.select2:link, a.select1:visited {
+a.select2:link, a.select2:visited {
 	background: #006633;
 	border: 10px solid #996633;
 	padding: 50px 250px 50px 250px;
@@ -97,7 +97,7 @@ a.select2:hover {
 	color: white;
 	border-radius: 10px;
 }
-a.select3:link, a.select1:visited {
+a.select3:link, a.select3:visited {
 	background: #006633;
 	border: 10px solid #996633;
 	padding: 50px 250px 50px 250px;
